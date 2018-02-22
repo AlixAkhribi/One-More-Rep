@@ -26,15 +26,6 @@ module.exports = function (app) {
         // what does this line do? using sequelize to create new entry to the table(model)
         db.Weight.create(req.body);
         res.json(weightData);
-
-
-        // route middleware
-        // what is next(); in Express.js
-        // what is res.redirect();
-
-        // after the data is in the data base
-        // use the saved weight data to do a chart
-        //chart the data by week and the y axis is your weight
     });
 
 }
