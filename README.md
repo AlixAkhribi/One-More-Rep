@@ -12,4 +12,4 @@ Generating workout
 ![Imgur](https://i.imgur.com/oL2pGpY.gif)
 
 Workouts for the week (only one workout generates for now) 
-![Imgur](https://i.imgur.com/vEqUfeO.png)
+![Imgur](https://i.imgur.com/zuEYmoK.gifv)
